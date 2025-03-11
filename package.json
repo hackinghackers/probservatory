@@ -22,13 +22,13 @@
     "fix:prettier": "prettier -w ."
   },
   "dependencies": {
-    "@astrojs/react": "^3.6.2",
+    "@astrojs/react": "^4.2.1",
     "@astrojs/rss": "^4.0.8",
     "@astrojs/sitemap": "^3.2.0",
-    "@astrolib/analytics": "^0.5.0",
+    "@astrolib/analytics": "^0.6.1",
     "@astrolib/seo": "^1.0.0-beta.6",
     "@fontsource-variable/inter": "^5.1.0",
-    "astro": "^4.16.18",
+    "astro": "^5.4.3",
     "astro-embed": "^0.7.2",
     "astro-icon": "^1.1.1",
     "firebase": "^11.1.0",
@@ -40,9 +40,10 @@
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.4",
-    "@astrojs/mdx": "^3.1.8",
+    "@astrojs/mdx": "^4.1.1",
     "@astrojs/partytown": "^2.1.2",
     "@astrojs/tailwind": "^5.1.2",
+    "@cloudflare/workers-types": "^4.20241218.0",
     "@eslint/js": "^9.10.0",
     "@iconify-json/flat-color-icons": "^1.2.0",
     "@iconify-json/tabler": "^1.2.3",
@@ -66,7 +67,7 @@
     "sharp": "0.33.5",
     "tailwind-merge": "^2.5.2",
     "tailwindcss": "^3.4.11",
-    "typescript": "^5.6.2",
+    "typescript": "^5.7.2",
     "typescript-eslint": "^8.6.0",
     "unist-util-visit": "^5.0.0"
   }
