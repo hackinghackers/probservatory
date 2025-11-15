@@ -59,7 +59,7 @@
     "eslint": "^9.10.0",
     "eslint-plugin-astro": "^1.2.4",
     "globals": "^15.9.0",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.1.1",
     "mdast-util-to-string": "^4.0.0",
     "prettier": "^3.3.3",
     "prettier-plugin-astro": "^0.14.1",
